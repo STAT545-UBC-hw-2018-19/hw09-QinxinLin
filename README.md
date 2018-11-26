@@ -4,9 +4,9 @@ In this assignment, the original pipeline is [here](https://github.com/STAT545-U
 
 I have added two analysis to this pipeline, **analysis1** and **analysis2**. The Makefile is [here](Makefile).
 
-* analysis 1: it is the original one, it can be uesd to analyse the length of each word in the dictionary word.txt and plot the histogram of word length distribution. The markdown report for analysis 1 is [here](report.md).
+* analysis 1: it is the original one, it can be uesd to analyse the length of each word in the dictionary word.txt and plot the histogram of word length distribution. The markdown report for analysis 1 is [report.md](report.md).
 
-* analysis 2: this analysis is created by me, including three new functions. The markdown report for analysis 2 is [here](data-analysis.md).
+* analysis 2: this analysis is created by me, including three new functions. The markdown report for analysis 2 is [data-analysis](data-analysis.md).
 
   * Count up the words starting with each character: [first.R](first.R) and [first_plot.R](first_plot.R)
   
